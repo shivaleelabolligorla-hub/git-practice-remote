@@ -1,2 +1,3 @@
-"hello from conflict-b"
+"hello from conflict-a"
+>>>>>>> conflict-a
 "second line"
